@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# Rails_re-former
+Project: Forms WIth ruby on rails
+>>>>>>> 3cddb042fa213b73c09ca284a1a22f28f489b1db
